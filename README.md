@@ -1,1 +1,1 @@
-# Clothing-Management-System
+# ClothingManagementSystem
